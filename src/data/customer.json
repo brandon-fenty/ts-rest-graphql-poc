@@ -1,0 +1,27 @@
+{
+    "Customers": {
+        "1": {
+            "fullName": "Brandon Fenty",
+            "address": "Renton, WA",
+            "gender": "Male",
+            "orders": [
+                {
+                    "orderNumber": 1234
+                }
+            ]
+        },
+        "2": {
+            "fullName": "Christen Baker",
+            "address": "Yelm, WA",
+            "gender": "Female",
+            "orders": [
+                {
+                    "orderNumber": 456
+                },
+                {
+                    "orderNumber": 789
+                }
+            ]
+        }
+    }
+}
